@@ -47,7 +47,7 @@ Feel free to reach out or follow me on [LinkedIn](https://www.linkedin.com/in/mi
  <a href="https://www.linkedin.com/in/michira-samson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="omichsam@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>&nbsp;&nbsp;
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=omichsam@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;&nbsp;
  </p>
